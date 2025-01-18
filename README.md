@@ -1,4 +1,4 @@
-# Top-10-MCA-Projects-Ideas
+# Top 10 MCA Projects Ideas
  Top 10 MCA Projects For Final Year With Code, Documents, And Video Tutorial
 
 ![top 10 MCA thumnail](https://github.com/user-attachments/assets/bd0a5a4a-f82f-4af3-9f51-7c47d404f56f)
